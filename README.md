@@ -1,5 +1,5 @@
 
-# 🏥 Hospital Meal Delivery Management System
+# 🏥 Hospital Food Delivery Management System
 
 ## 📋 Overview
 A full-stack application for managing hospital patient meals, diet charts, and meal deliveries. The system streamlines communication between hospital managers, pantry staff, and delivery personnel for efficient meal delivery management.
